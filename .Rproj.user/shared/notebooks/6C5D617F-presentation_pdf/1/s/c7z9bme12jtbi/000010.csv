@@ -1,0 +1,4 @@
+"0","grid.arrange(ind_index$index_plot, non_agr_index$index_plot,"
+"0","             export_index$index_plot, manu_index$index_plot, overtime_index$index_plot, ncol = 2, widths = 0.4, heights = 0.6)"
+"2","Error in arrangeGrob(...) : length(widths) == ncol is not TRUE
+"

@@ -1,0 +1,5 @@
+"0","temp <- cycle15_predict %>% select(date, ind_change_std, non_agr_change_std, export_change_std, manu_change_std,"
+"0","                                   overtime_change_std, predict_indicator)"
+"0","colnames(temp) <- c(""時間點"", ""工業生產指數"", ""非農業部門就業人數"","
+"0","                 ""實質海關出口值"", ""製造業銷售量指數"", ""工業及服務業加班工時"", ""景氣狀態"")"
+"0","kable(temp, align = 'c', )"

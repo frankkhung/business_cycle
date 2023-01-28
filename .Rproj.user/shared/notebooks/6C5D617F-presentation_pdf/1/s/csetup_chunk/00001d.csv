@@ -1,0 +1,5 @@
+"0","knitr::opts_chunk$set(echo = TRUE)"
+"0","library(knitr)"
+"0","library(dplyr)"
+"0","library(gridExtra)"
+"0","load(""~/Documents/FHDocument/2022_2023/Deloitte/經濟週期/business_cycle/business_cycle.RData"" )"
